@@ -1,61 +1,35 @@
 [
-    {
-      "date": "11 November",
-      "cars": [
-        {
-          "url": "https://www.iaai.com/VehicleDetail/41153902~US",
-          "description": "2021 Vehicle - IAAI"
-        },
-        {
-          "url": "https://www.iaai.com/VehicleDetail/40748258~US",
-          "description": "2020 Vehicle - IAAI"
-        },
-        {
-          "url": "https://www.copart.com/lot/69072004/clean-title-2021-tesla-model-3-co-colorado-springs",
-          "description": "2021 Tesla Model 3 - Colorado Springs"
-        },
-        {
-          "url": "https://www.copart.com/lot/71223774/salvage-2019-tesla-model-3-or-portland-south",
-          "description": "2019 Tesla Model 3 - Portland"
-        },
-        {
-          "url": "https://www.copart.com/lot/75996124/salvage-2021-tesla-model-3-nh-candia",
-          "description": "2021 Tesla Model 3 - Candia"
-        },
-        {
-          "url": "https://www.copart.com/lot/67281094/salvage-2019-tesla-model-3-ma-south-boston",
-          "description": "2019 Tesla Model 3 - South Boston"
-        },
-        {
-          "url": "https://www.iaai.com/VehicleDetail/40975600~US",
-          "description": "2020 Vehicle - IAAI"
-        }
-      ]
-    },
-    {
-      "date": "12 November",
-      "cars": [
-        {
-          "url": "https://www.copart.com/lot/75996124/salvage-2021-tesla-model-3-nh-candia",
-          "description": "2021 Tesla Model 3 - Candia"
-        },
-        {
-          "url": "https://www.copart.com/lot/67281094/salvage-2019-tesla-model-3-ma-south-boston",
-          "description": "2019 Tesla Model 3 - South Boston"
-        },
-        {
-          "url": "https://www.iaai.com/VehicleDetail/40975600~US",
-          "description": "2020 Vehicle - IAAI"
-        },
-        {
-          "url": "https://www.copart.com/lot/71814344/salvage-2021-tesla-model-3-hi-honolulu",
-          "description": "2021 Tesla Model 3 - Honolulu"
-        },
-        {
-          "url": "https://www.copart.com/lot/64176164/salvage-2018-tesla-model-3-mo-st-louis",
-          "description": "2018 Tesla Model 3 - St. Louis"
-        }
-      ]
-    }
-  ]
-  
+  {
+    "date": "12 November",
+    "cars": [
+      {
+        "url": "https://www.iaai.com/VehicleDetail/41153902~US",
+        "description": "2021 Vehicle - IAAI"
+      },
+      {
+        "url": "https://www.copart.com/lot/72775574/salvage-2018-tesla-model-3-md-baltimore-east",
+        "description": "2018 Tesla Model 3 - Baltimore East"
+      },
+      {
+        "url": "https://www.copart.com/lot/74217744/salvage-2019-tesla-model-3-al-mobile-south",
+        "description": "2019 Tesla Model 3 - Mobile South"
+      },
+      {
+        "url": "https://www.copart.com/lot/76826744/salvage-2019-tesla-model-3-tx-houston",
+        "description": "2019 Tesla Model 3 - Houston"
+      },
+      {
+        "url": "https://www.copart.com/lot/64176164/salvage-2018-tesla-model-3-mo-st-louis",
+        "description": "2018 Tesla Model 3 - St. Louis"
+      },
+      {
+        "url": "https://www.copart.com/lot/78739274/salvage-2019-tesla-model-3-az-phoenix-north",
+        "description": "2019 Tesla Model 3 - Phoenix North"
+      },
+      {
+        "url": "https://www.copart.com/lot/78516664/salvage-2018-tesla-model-3-ca-san-diego",
+        "description": "2018 Tesla Model 3 - San Diego"
+      }
+    ]
+  }
+]
